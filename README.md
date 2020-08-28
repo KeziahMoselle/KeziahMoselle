@@ -68,16 +68,16 @@ When available I'm helping developers on Discord.
 #### Talks
 
 <p align="center">
-
   <a href="https://youtu.be/UEOV1HQIEug">
     <h3>🇫🇷 Advanced JS and design patterns</h3>
     <img width="50%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/advanced-js.jpg" alt="">
   </a>
+</p>
 
-  <a href="https://youtu.be/8GiLpgGmOw4">
+<p align="center">
+ <a href="https://youtu.be/8GiLpgGmOw4">
     <h3>🇫🇷 How to make your sites more accessible</h3>
     <img width="50%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/accessibility.jpg" alt="">
   </a>
-
 </p>
 
