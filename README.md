@@ -57,6 +57,12 @@ I'm writing about things I am familiar with, things that I struggled with when I
 
 ### Community Involvement
 
+<p>
+  <a href="https://github.com/ElsassDev">
+    <img width="48" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/elsassdev.png">
+  </a>
+</p>
+
 #### ElsassDev
 
 [Jonathan Tawk](https://github.com/Jotawk) and I created a community of passionnate developers : [ElsassDev](https://github.com/ElsassDev)
