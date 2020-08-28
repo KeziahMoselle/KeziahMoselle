@@ -1,9 +1,9 @@
-# ![Keziah MOSELLE header](./images/header.jpg)
+# ![Keziah MOSELLE header](https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/header.jpg)
 <p align='center'>
-<a href="https://dev.to/keziahmoselle"><img height="30" src="./images/devto.svg"></a>&nbsp;&nbsp;
-<a href="https://dev.to/keziahmoselle"><img height="30" src="./images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/keziah"><img height="30" src="./images/coffee.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/keziah-moselle/"><img height="30" src="./images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/keziahmoselle"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/devto.svg"></a>&nbsp;&nbsp;
+<a href="https://dev.to/keziahmoselle"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/keziah"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/coffee.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/keziah-moselle/"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/linkedin.png"></a>&nbsp;&nbsp;
 </p>
 
 Hi there 👋,
@@ -24,7 +24,7 @@ I create apps and tools that helps people.  I have a passion for learning and sh
 ---
  
 <p>
-  <img width="250" align="right" src="./images/coding.svg">
+  <img width="250" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/coding.svg">
 </p>
  
 ### Open Source
@@ -43,7 +43,7 @@ I contributed to several projects including :
 
 <p>
   <a href="https://blog.keziahmoselle.fr/">
-    <img width="250" align="left" src="./images/watering_plant.svg">
+    <img width="250" align="left" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/watering_plant.svg">
   </a>
 </p>
 
@@ -71,12 +71,12 @@ When available I'm helping developers on Discord.
 
   <a href="https://youtu.be/UEOV1HQIEug">
     <h3>🇫🇷 Advanced JS and design patterns</h3>
-    <img width="50%" src="./images/advanced-js.jpg" alt="">
+    <img width="50%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/advanced-js.jpg" alt="">
   </a>
 
   <a href="https://youtu.be/8GiLpgGmOw4">
     <h3>🇫🇷 How to make your sites more accessible</h3>
-    <img width="50%" src="./images/accessibility.jpg" alt="">
+    <img width="50%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/accessibility.jpg" alt="">
   </a>
 
 </p>
