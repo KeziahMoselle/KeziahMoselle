@@ -81,17 +81,23 @@ When available I'm helping developers on Discord.
 <table>
   <tr>
     <td valign="top">
-    <a href="https://youtu.be/UEOV1HQIEug">
-      <h3>🇫🇷 Advanced JS and design patterns</h3>
-      <img align="left" width="100%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/advanced-js.jpg" alt="">
-    </a>
+     <a href="https://youtu.be/UEOV1HQIEug">
+      🇫🇷 Advanced JS and design patterns
+     </a>
     </td>
     <td valign="top">
-      <a href="https://youtu.be/8GiLpgGmOw4">
-        <h3>🇫🇷 How to make your sites more accessible</h3>
-        <img width="100%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/accessibility.jpg" alt="">
-      </a>
+      <a href="https://youtu.be/8GiLpgGmOw4" style="display:block;">
+       🇫🇷 How to make your sites more accessible
+     </a>
     </td>
   </tr>
+ <tr>
+  <td>
+   <img align="left" width="100%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/advanced-js.jpg" alt="">
+  </td>
+  <td>
+   <img width="100%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/accessibility.jpg" alt="">
+  </td>
+ </tr>
 </table>
 
