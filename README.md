@@ -14,7 +14,7 @@ I create apps and tools that helps people.  I have a passion for learning and sh
 
 - [Tempus](https://tempus.keziahmoselle.fr/), a simple yet featureful pomodoro in your menubar
 - [Ribbon](https://github.com/KeziahMoselle/ribbon), manage your bookmarks all in one place
-- [Export Github Stars](https://export-github-stars.netlify.app/),utility tool to view/sort and export your GitHub stars
+- [Export Github Stars](https://export-github-stars.netlify.app/), a utility tool to view/sort and export your GitHub stars (Microsoft acquisition)
 - [Gelbooru Client](https://github.com/KeziahMoselle/gelbooru-client), a material client to browse tagged images
 - [ScrapeHook](https://github.com/KeziahMoselle/scrapehook), a simple Node.js module that emits when the content of a website changes.
 - [Shootality](https://itch.io/jam/game-off-2018/rate/335819), a simple game I made (but not finished) for the GitHub Game Off 2018.
