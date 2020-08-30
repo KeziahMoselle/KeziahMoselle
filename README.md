@@ -75,7 +75,7 @@ I'm writing about things I am familiar with, things that I struggled with when I
 
 When available I'm helping developers on Discord.
 
-[Michel EDIGHOFFER](https://github.com/edimitchel) and I also organized a *Conf-Informés* (Informed Conference) where we talked about recent news with the community. You can find a summary of it here : [Summary Conf-Informés](https://elsasscommunity.netlify.app/recap-conf-informes-1/)
+[Michel EDIGHOFFER](https://github.com/edimitchel) and I also organized a *Conf-Informés* (Informed Conference) where we talked about recent news with the community. You can find a summary of it here : [Summary Conf-Informés](https://elsasscommunity.netlify.app/summary-conf-informes-1/)
 
 ---
 
