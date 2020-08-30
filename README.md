@@ -29,10 +29,9 @@ I create apps and tools that helps people.  I have a passion for learning and sh
 - WebGL
  
 ---
- 
-<p>
-  <img width="250" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/coding.svg">
-</p>
+
+
+<img width="250" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/coding.svg">
  
 ### Open Source
 
@@ -48,11 +47,9 @@ I contributed to several projects including :
 
  ---
 
-<p>
-  <a href="https://blog.keziahmoselle.fr/">
-    <img width="200" align="left" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/watering_plant.svg">
-  </a>
-</p>
+<a href="https://blog.keziahmoselle.fr/">
+  <img width="200" align="left" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/watering_plant.svg">
+</a>
 
 ### My Digital Garden 🌱
 
@@ -67,11 +64,9 @@ I'm writing about things I am familiar with, things that I struggled with when I
 
 ### Community Involvement 🌐
 
-<p>
-  <a href="https://github.com/ElsassDev">
-    <img width="48" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/elsassdev.png">
-  </a>
-</p>
+<a href="https://github.com/ElsassDev">
+  <img width="250" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/conversation.svg">
+</a>
 
 #### ElsassDev
 
