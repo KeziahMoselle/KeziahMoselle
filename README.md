@@ -43,7 +43,7 @@ I contributed to several projects including :
 
 <p>
   <a href="https://blog.keziahmoselle.fr/">
-    <img width="250" align="left" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/watering_plant.svg">
+    <img width="200" align="left" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/watering_plant.svg">
   </a>
 </p>
 
@@ -52,6 +52,9 @@ I contributed to several projects including :
 I occasionally write blog posts, most of which you will find on my blog [blog.keziahmoselle.fr](https://blog.keziahmoselle.fr/) and [ElsassDev Blog](https://elsasscommunity.netlify.app/).
 
 I'm writing about things I am familiar with, things that I struggled with when I was a beginner, and things that I am currently learning.
+
+
+&nbsp;
 
 ---
 
@@ -69,21 +72,26 @@ I'm writing about things I am familiar with, things that I struggled with when I
 
 When available I'm helping developers on Discord.
 
-[Michel EDIGHOFFER](https://github.com/edimitchel) and I also organized a *Conf-Informés* (Informed Conference) where we talked about recent news with the community. You cand find a summary of it here : [Summary Conf-Informés](https://elsasscommunity.netlify.app/recap-conf-informes-1/)
+[Michel EDIGHOFFER](https://github.com/edimitchel) and I also organized a *Conf-Informés* (Informed Conference) where we talked about recent news with the community. You can find a summary of it here : [Summary Conf-Informés](https://elsasscommunity.netlify.app/recap-conf-informes-1/)
 
-#### Talks
+---
 
-<p align="center">
-  <a href="https://youtu.be/UEOV1HQIEug">
-    <h3>🇫🇷 Advanced JS and design patterns</h3>
-    <img width="50%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/advanced-js.jpg" alt="">
-  </a>
-</p>
+### Talks
 
-<p align="center">
- <a href="https://youtu.be/8GiLpgGmOw4">
-    <h3>🇫🇷 How to make your sites more accessible</h3>
-    <img width="50%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/accessibility.jpg" alt="">
-  </a>
-</p>
+<table>
+  <tr>
+    <td valign="top">
+    <a href="https://youtu.be/UEOV1HQIEug">
+      <h3>🇫🇷 Advanced JS and design patterns</h3>
+      <img align="left" width="100%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/advanced-js.jpg" alt="">
+    </a>
+    </td>
+    <td valign="top">
+      <a href="https://youtu.be/8GiLpgGmOw4">
+        <h3>🇫🇷 How to make your sites more accessible</h3>
+        <img width="100%" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/accessibility.jpg" alt="">
+      </a>
+    </td>
+  </tr>
+</table>
 
