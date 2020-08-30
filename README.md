@@ -1,9 +1,10 @@
 # ![Keziah MOSELLE header](https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/header.jpg)
 <p align='center'>
+<a href="https://keziahmoselle.fr"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/website.svg"></a>&nbsp;&nbsp;
 <a href="https://dev.to/keziahmoselle"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/devto.svg"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/KeziahMoselle"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/keziah"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/coffee.svg"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/keziah-moselle/"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/linkedin.png"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/keziah"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/coffee.svg"></a>&nbsp;&nbsp;
 </p>
 
 Hi there 👋,
