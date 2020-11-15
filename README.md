@@ -23,10 +23,9 @@ I create apps and tools that helps people.  I have a passion for learning and sh
 - [osu!replay](https://github.com/KeziahMoselle/osu-replay), a website for sharing replays file from a game called osu!
 
 
-#### 📖 Want to learn :
+#### 📖 Want to learn next :
 
-- Test Driven Development (TDD)
-- SVG Animations
+- CSS/SVG Animations
 - WebGL
  
 ---
@@ -54,28 +53,12 @@ I contributed to several projects including :
 
 ### My Digital Garden 🌱
 
-I occasionally write blog posts, most of which you will find on my blog [blog.keziahmoselle.fr](https://blog.keziahmoselle.fr/) or [ElsassDev Blog](https://elsasscommunity.netlify.app/).
+I occasionally write blog posts, most of which you will find on my blog [blog.keziahmoselle.fr](https://blog.keziahmoselle.fr/) or [Dev Corner Blog](https://dev-corner.netlify.app/).
 
 I'm writing about things I am familiar with, things that I struggled with when I was a beginner, and things that I am currently learning.
 
 
 &nbsp;
-
----
-
-### Community Involvement 🌐
-
-<a href="https://github.com/ElsassDev">
-  <img width="250" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/conversation.svg">
-</a>
-
-#### ElsassDev
-
-[Jonathan Tawk](https://github.com/Jotawk) and I created a community of passionnate developers : [ElsassDev](https://github.com/ElsassDev)
-
-When available I'm helping developers on Discord.
-
-[Michel EDIGHOFFER](https://github.com/edimitchel) and I also organized a *Conf-Informés* (Informed Conference) where we talked about recent news with the community. You can find a summary of it here : [Summary Conf-Informés](https://elsasscommunity.netlify.app/summary-conf-informes-1/)
 
 ---
 
