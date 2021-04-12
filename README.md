@@ -37,14 +37,6 @@ I create apps and tools that helps people.  I have a passion for learning and sh
 
 I love open source and its community,  I am not a heavy maintainer of any large libraries, but I really like to contribute to amazing things i'm using.
 
-I contributed to several projects including :
-
-- Streaker, Contribution streak & stat tracking menu bar app : [Pull Requests](https://github.com/jamieweavis/streaker/pulls?q=is%3Apr+sort%3Aupdated-desc+author%3AKeziahMoselle)
-- Node.js website, where I added a "Thanking contributors" card in the footer : [Pull Request](https://github.com/nodejs/nodejs.org/pull/2635)
-- Rome website, where I improved their accessibility : [Pull Request](https://github.com/romefrontend/rome/pull/183)
-- Deno, where I suggested ideas to improve the ux : [Issues](https://github.com/denoland/deno_website2/issues?q=is%3Aissue+sort%3Aupdated-desc+author%3AKeziahMoselle)
-- Vue.js and Octokit, where I fixed typos or broken links
-
  ---
 
 <a href="https://blog.keziahmoselle.fr/">
