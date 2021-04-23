@@ -1,4 +1,4 @@
-# ![Keziah MOSELLE header](https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/header.jpg)
+# ![Keziah MOSELLE header](https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/header.png)
 <p align='center'>
 <a href="https://keziahmoselle.fr"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/website.svg"></a>&nbsp;&nbsp;
 <a href="https://dev.to/keziahmoselle"><img height="30" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/devto.svg"></a>&nbsp;&nbsp;
