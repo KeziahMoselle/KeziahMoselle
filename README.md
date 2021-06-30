@@ -16,28 +16,27 @@ I create apps and tools that helps people.  I have a passion for learning and sh
 - [Tempus](https://tempus.keziahmoselle.fr/), a simple yet featureful pomodoro in your menubar
 - [Ribbon](https://github.com/KeziahMoselle/ribbon), manage your bookmarks all in one place
 - [Export Github Stars](https://export-github-stars.netlify.app/), a utility tool to view/sort and export your GitHub stars (Microsoft acquisition)
-- [Gelbooru Client](https://github.com/KeziahMoselle/gelbooru-client), a material client to browse tagged images
-- [ScrapeHook](https://github.com/KeziahMoselle/scrapehook), a simple Node.js module that emits when the content of a website changes.
-- [Shootality](https://itch.io/jam/game-off-2018/rate/335819), a simple game I made (but not finished) for the GitHub Game Off 2018.
-- [Braille Embosser](https://github.com/KeziahMoselle/braille-embosser), IoT. a mobile application for a mobile printer that prints braille. [Student Project]
-- [osu!replay](https://github.com/KeziahMoselle/osu-replay), a website for sharing replays file from a game called osu!
+
+<details>
+  <summary>More projects</summary>
+  <ul>
+    <li><a href="https://github.com/KeziahMoselle/gelbooru-client">Gelbooru Client</a>, a material client to browse tagged images</li>
+    <li><a href="https://github.com/KeziahMoselle/scrapehook">ScrapeHook</a>, a simple Node.js module that emits when the content of a website changes.</li>
+    <li><a href="https://itch.io/jam/game-off-2018/rate/335819">Shootality</a>, a simple game I made (but not finished) for the GitHub Game Off 2018.</li>
+    <li><a href="https://github.com/KeziahMoselle/braille-embosser">Braille Embosser</a>, IoT. a mobile application for a mobile printer that prints braille. [Student Project]</li>
+    <li><a href="https://github.com/KeziahMoselle/osu-replay">osu!replay</a>, a website for sharing replays file from a game called osu!</li>
+  </ul>
+
+</details>
+
 
 
 #### 📖 Want to learn next :
 
 - CSS/SVG Animations
 - WebGL
- 
+
 ---
-
-
-<img width="250" align="right" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/coding.svg">
- 
-### Open Source
-
-I love open source and its community,  I am not a heavy maintainer of any large libraries, but I really like to contribute to amazing things i'm using.
-
- ---
 
 <a href="https://blog.keziahmoselle.fr/">
   <img width="200" align="left" src="https://raw.githubusercontent.com/KeziahMoselle/KeziahMoselle/main/images/watering_plant.svg">
