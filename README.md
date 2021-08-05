@@ -14,6 +14,7 @@ I create apps and tools that helps people.  I have a passion for learning and sh
 #### 💻 Apps and tools I've created :
 
 - [Tempus](https://tempus.keziahmoselle.fr/), a simple yet featureful pomodoro in your menubar
+- [PippiTrack](https://pippitrack.com/), a Discord bot and browser extension that tracks osu! activity and send news on Discord
 - [Ribbon](https://github.com/KeziahMoselle/ribbon), manage your bookmarks all in one place
 - [Export Github Stars](https://export-github-stars.netlify.app/), a utility tool to view/sort and export your GitHub stars (Microsoft acquisition)
 
